@@ -1,5 +1,5 @@
 # Linux-Process-Viewer 🚀
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Este projeto é uma aplicação simples que usa C++ e Qt para visualizar e gerenciar processos do sistema operacional Linux. Ele foi criado com o objetivo de aprender e demonstrar minha habilidade em trabalhar com Qt, C++, multithreading e gerenciamento de processos.
 
